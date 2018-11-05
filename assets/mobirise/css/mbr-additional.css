@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #149dcc !important;
+  background-color: #993494 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -148,8 +148,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #993494 !important;
+  border-color: #993494 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -157,14 +157,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #60215d !important;
+  border-color: #60215d !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #60215d !important;
+  border-color: #60215d !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -312,22 +312,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #4d1a4a;
+  color: #4d1a4a;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #993494;
+  border-color: #993494;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #993494 !important;
+  border-color: #993494 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -464,7 +464,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #149dcc !important;
+  color: #993494 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -489,7 +489,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #0b566f !important;
+  color: #4d1a4a !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -547,8 +547,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #993494;
+  border-color: #993494;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -565,11 +565,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #149dcc;
+  color: #993494;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #b4e6f8;
+  color: #d27bce;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -689,7 +689,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #149dcc;
+  border-color: #993494;
   border-width: 3px;
 }
 ul,
@@ -778,7 +778,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #149dcc;
+  border-color: #993494;
   color: #232323;
   cursor: pointer;
 }
@@ -789,7 +789,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #149dcc;
+  background: #993494;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -797,11 +797,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #149dcc;
+  background: #993494;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #149dcc;
+  color: #993494;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1766,7 +1766,7 @@ body {
   color: #767676 !important;
 }
 .cid-r7QWGPat2W {
-  background-image: url("../../../assets/images/tire-wallpaper-hd-44149-45259-hd-wallpapers-2000x1250.jpg");
+  background-image: url("../../../assets/images/imagen1-2-2000x1622.jpg");
 }
 .cid-r7RLxOG65o {
   padding-top: 90px;
@@ -1826,87 +1826,136 @@ body {
 .cid-r7RLxOG65o .price-term {
   color: #ffffff;
 }
-.cid-r7R5y3s37z {
+.cid-r8grjK0noE {
   padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #f9f9f9;
+  padding-bottom: 0px;
+  background-color: #993494;
 }
-.cid-r7R5y3s37z h2 {
-  text-align: left;
+.cid-r8grjK0noE .mbr-section-subtitle {
+  color: #ffffff;
 }
-.cid-r7R5y3s37z h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-r7R5y3s37z p {
-  color: #767676;
-  text-align: left;
-}
-.cid-r7R5y3s37z .aside-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-r7R5y3s37z .block-content {
+.cid-r8grjK0noE .media-row {
   display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-r7R5y3s37z .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
+.cid-r8grjK0noE .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-r7R5y3s37z .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
+.cid-r8grjK0noE .team-item .item-image img {
+  width: 100%;
 }
-.cid-r7R5y3s37z .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-r7R5y3s37z .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-r7R5y3s37z .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r7R5y3s37z .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-r7R5y3s37z .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-r7RSgLf1M4 {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-r7RSgLf1M4 h4 {
-  font-weight: 500;
+.cid-r8grjK0noE .team-item .item-name p {
   margin-bottom: 0;
-  text-align: left;
 }
-.cid-r7RSgLf1M4 p {
-  color: #767676;
-  text-align: left;
+.cid-r8grjK0noE .team-item .item-role p {
+  margin-bottom: 0;
 }
-.cid-r7RSgLf1M4 .card-box {
-  padding-top: 2rem;
+.cid-r8grjK0noE .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
 }
-.cid-r7RSgLf1M4 .card-wrapper {
+.cid-r8grjK0noE .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r8grjK0noE .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r8grjK0noE H2 {
+  color: #ffffff;
+}
+.cid-r8wBEoYiCs {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #993494;
+}
+.cid-r8wBEoYiCs .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-r8wBEoYiCs .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-r8wBEoYiCs .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-r8wBEoYiCs .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-r8wBEoYiCs .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
   height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-r8wBEoYiCs .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-r8wBEoYiCs .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-r8wBEoYiCs .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-r8wBEoYiCs .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-r8w5hgIdMv {
+  background: #cccccc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-r8w5hgIdMv .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r8w5hgIdMv .video-block {
+    width: 100% !important;
+  }
+}
+.cid-r8w5szDiGn {
+  background: #cccccc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-r8w5szDiGn .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r8w5szDiGn .video-block {
+    width: 100% !important;
+  }
 }
 .cid-r7RaIbCBAj .google-map {
   height: 25rem;
@@ -1937,13 +1986,13 @@ body {
 .cid-r7RaNsK0YT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #993494;
 }
 .cid-r7RaNsK0YT .title {
   margin-bottom: 2rem;
 }
 .cid-r7RaNsK0YT .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-r7RaNsK0YT a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1961,11 +2010,16 @@ body {
   display: block;
   text-align: center;
 }
+.cid-r7RaNsK0YT H2 {
+  color: #ffffff;
+}
+.cid-r7RaNsK0YT LABEL {
+  color: #ffffff;
+}
 .cid-r7QXqe9ffG {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  background-image: url("../../../assets/images/tire-desktop-wallpaper-50155-51842-hd-wallpapers-1920x1200.jpg");
 }
 .cid-r7QXqe9ffG .carousel-control {
   background: #000;
@@ -2165,6 +2219,9 @@ body {
   .cid-r7QXqe9ffG .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-r7QXqe9ffG B {
+  color: #ffffff;
 }
 .cid-r7QXuP4qfO {
   padding-top: 45px;
