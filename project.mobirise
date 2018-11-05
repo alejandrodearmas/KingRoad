@@ -1154,7 +1154,7 @@
               }
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "clients",
