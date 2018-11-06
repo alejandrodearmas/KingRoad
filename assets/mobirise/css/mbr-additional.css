@@ -1768,63 +1768,47 @@ body {
 .cid-r7QWGPat2W {
   background-image: url("../../../assets/images/imagen1-4-2000x1622.jpg");
 }
-.cid-r7RLxOG65o {
+.cid-r8D7v1KJR2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #177396, #ca2955);
+  background-color: #232323;
 }
-.cid-r7RLxOG65o .list-group-item {
-  padding: .75rem 3.25rem;
+.cid-r8D7v1KJR2 .card-box {
+  padding: 0 2rem;
 }
-.cid-r7RLxOG65o .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
+.cid-r8D7v1KJR2 .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-r7RLxOG65o .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
+.cid-r8D7v1KJR2 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
-.cid-r7RLxOG65o .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
+.cid-r8D7v1KJR2 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-r7RLxOG65o .plan .list-group-item:last-child::after {
-  display: none;
+.cid-r8D7v1KJR2 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
 }
-.cid-r7RLxOG65o .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
+.cid-r8D7v1KJR2 .mbr-text {
+  color: #f7ed4a;
+  text-align: center;
 }
-.cid-r7RLxOG65o .plan-header,
-.cid-r7RLxOG65o .plan-body {
-  background-color: #fff;
+.cid-r8D7v1KJR2 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #993494;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-r7RLxOG65o .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-r7RLxOG65o .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-r7RLxOG65o .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-r7RLxOG65o .price-term {
-  color: #ffffff;
+.cid-r8D7v1KJR2 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-r8grjK0noE {
   padding-top: 90px;
