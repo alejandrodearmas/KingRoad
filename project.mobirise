@@ -707,13 +707,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/llantas2-725x548.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/llantas2-725x548-725x548.jpg",
+                "image": "@PROJECT_PATH@/assets/images/llantas4-725x548.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/llantas4-725x548-725x548.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Neumáticos Nuevos",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -804,7 +804,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Diagnosis",
-                "active": true
+                "active": false
               }
             ]
           }
